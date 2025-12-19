@@ -9,8 +9,6 @@
 
   ---
 
-### Skills
-
   ![Red Team](https://img.shields.io/badge/Red_Team_Ops-crimson?style=for-the-badge)
   ![Pentesting](https://img.shields.io/badge/Penetration_Testing-red?style=for-the-badge)
   ![SOC](https://img.shields.io/badge/SOC_Analysis-blue?style=for-the-badge)
@@ -27,6 +25,6 @@
   ![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
   ![Nmap](https://img.shields.io/badge/Nmap-0D93DA?style=for-the-badge&logo=nmap&logoColor=white)
   ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-  ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+  ![SIEM](https://img.shields.io/badge/SIEM-000000?style=for-the-badge&logo=splunk&logoColor=white)
 
 </div>
