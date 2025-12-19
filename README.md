@@ -9,14 +9,24 @@
 
   ---
 
-  ### Skills
+### Skills
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  ![Red Team](https://img.shields.io/badge/Red_Team_Ops-crimson?style=for-the-badge)
+  ![Pentesting](https://img.shields.io/badge/Penetration_Testing-red?style=for-the-badge)
+  ![SOC](https://img.shields.io/badge/SOC_Analysis-blue?style=for-the-badge)
 
-  ![Linux](https://img.shields.io/badge/Linux_PrivEsc-FCC624?style=flat-square&logo=linux&logoColor=black)
-  ![Network](https://img.shields.io/badge/Network_Analysis-Wireshark-blue?style=flat-square&logo=wireshark&logoColor=white)
-  ![Web](https://img.shields.io/badge/Web_Exploitation-Burp_Suite-orange?style=flat-square&logo=burpsuite&logoColor=white)
+  <br>
+
+  ![Kali](https://img.shields.io/badge/Kali_Linux-268BD2?style=for-the-badge&logo=kali-linux&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+  <br>
+
+  ![Metasploit](https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white)
+  ![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+  ![Nmap](https://img.shields.io/badge/Nmap-0D93DA?style=for-the-badge&logo=nmap&logoColor=white)
+  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+  ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 
 </div>
